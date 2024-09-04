@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://circulareis.github.io/sitemap/sitemap.txt
